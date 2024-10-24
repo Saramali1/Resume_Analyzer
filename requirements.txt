@@ -1,0 +1,9 @@
+nltk==3.8.1
+textstat==0.7.3
+requests==2.31.0
+pandas==2.0.3
+Flask==3.0.0
+google-api-python-client==2.93.0 
+streamlit==1.25.0
+PyMuPDF==1.24.12
+python-dotenv==1.0.0
